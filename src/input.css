@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@import url("../public/font/LEAGUESPARTAN-VARIABLEFONT_WGHT.TTF");
+@theme {
+  --font-Spartan: "League Spartan";
+}
